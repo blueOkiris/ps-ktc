@@ -1,5 +1,7 @@
 # Polymath Studio Keyboard/Trackball Combo
 
+NOTE: Project still in development!!!!
+
 ## Description
 
 A keyboard and trackball in one, for efficient computer usage.
