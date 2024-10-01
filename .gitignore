@@ -1,0 +1,48 @@
+# Temp files
+~*
+\#*
+
+# PCB Exports
+output/
+*.zip
+*.gbl
+*.gbs
+*.gbp
+*.gbo
+*.gm1
+*.gtl
+*.gts
+*.gtp
+*.gto
+*.gbrjob
+*.drl
+*.drl
+*.lck
+*.gbr
+
+# Build env
+.venv
+
+# ch554_sdcc output
+*.ihx
+*.lk
+*.map
+*.mem
+*.lst
+*.rel
+*.rst
+*.sym
+*.asm
+*.adb
+*.hex
+*.bin
+
+# Arduino
+arduino-cli/
+libraries/
+build/
+*.hex
+
+# 3D Print
+*.gcode
+

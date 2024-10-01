@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ch552g")(type "KiCad")(uri "${KIPRJMOD}/../lib/ch552g/ch552g.kicad_sym")(options "")(descr ""))
+  (lib (name "PCA9505DGGY")(type "KiCad")(uri "/home/dylan/Nextcloud/Engineering/DesignProjects/ps-ktc/pcb-old/PCA9505DGGY.kicad_sym")(options "")(descr ""))
+  (lib (name "COM-13834")(type "KiCad")(uri "/home/dylan/Nextcloud/Engineering/DesignProjects/ps-ktc/pcb-old/COM-13834.kicad_sym")(options "")(descr ""))
+  (lib (name "pmw3360_pcb")(type "KiCad")(uri "/home/dylan/Nextcloud/Engineering/DesignProjects/ps-ktc/pcb-old/pmw3360_pcb.kicad_sym")(options "")(descr ""))
+)
