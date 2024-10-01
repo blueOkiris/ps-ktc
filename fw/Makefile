@@ -66,7 +66,7 @@ $(foreach lib,$(LIBS), \
 
 libraries/USBHIDKeyboard/USBHIDKeyboard.h: $(BOARD_PKG_INDEX)
 	mkdir -p libraries
-	cp -r $(BOARD_PKG_INDEX)/hardware/mcs51/0.0.21/libraries/Generic_Examples/examples/05.USB/HidKeyboard/src/userUsbHidKeyboard libraries/USBHIDKeyboard
+	cp -r $(BOARD_PKG_INDEX)hardware/mcs51/0.0.23/libraries/Generic_Examples/examples/05.USB/HidKeyboard/src/userUsbHidKeyboard libraries/USBHIDKeyboard
 
 ## Main targets
 

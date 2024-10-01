@@ -38,9 +38,20 @@ CLk Z       \|  Ins BSp Del               -----     /?      Q
 
 Where the home row is S, T, I, A, Space, Trackball, E, R, O, N
 
-There are 80 keys here. Why not 100? Well, there are few reasons:
+There are 82 keys here. Why not 100? Well, there are few reasons:
 
 1. Due to the every key being available and close to a finger in this arrangement, there is no need for the 10 num-pad digits nor the Num Lock nor the num-pad duplicates of /, \*, -, +, Return, and \./Delete. That's 100 - 10 - 7 = 83
 2. No Print Screen, Scroll Lock, or Pause because, let's be real, the vast majority of people, myself included, do not need these keys. Maybe Print Screen, but Super + Shift + S is a great key combo for screenshot, so Print Screen is not needed. That's 83 - 3 = 80 keys
+3. Mouse clicks as keys. 82 (middle click = left + right)
 
-There's 
+## Cost
+
+If you go with the recommended JLCPCB, Tindie, and Amazon links, the cost is roughly broken down like so
+
+| Part                    | Cost (w/ shipping) |
+|:-----------------------:|:------------------:|
+| PCBs                    | $101.01            |
+| Motion Sensor           | $39.98             |
+| Rotary Encoder  + Wires | $44.20             |
+| Total                   | $185.19            |
+
